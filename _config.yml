@@ -2,6 +2,7 @@ name: FancyKandi
 favicon: null
 layout_spectrum: 0.13534549390897155
 typography_spectrum: 0.22352529037743807
+title: FancyKandi
 cta:
   domain: null
   bucket: null
