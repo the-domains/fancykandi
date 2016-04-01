@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Launching Spring 2016
-datePublished: '2016-04-01T04:28:50.276Z'
-dateModified: '2016-04-01T03:57:56.766Z'
+datePublished: '2016-04-01T04:30:00.046Z'
+dateModified: '2016-04-01T04:28:52.699Z'
 title: Collections
 author: []
 sourcePath: _posts/2016-04-01-collections.md
