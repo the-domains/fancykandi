@@ -1,7 +1,7 @@
 name: FancyKandi
 favicon: null
-layout_spectrum: 0.13534549390897155
-typography_spectrum: 0.22352529037743807
+layout_spectrum: 0.7452
+typography_spectrum: 0.85018
 title: FancyKandi
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#fefefc'
     - '#857f70'
     - '#565858'
-  brandStrength: 0.875
-  lightness: 0.6687925735022873
-  saturation: 0.6401993038598448
-  rhythmicContrast: 0.5200315350666642
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.0625
+  rhythmicContrast: 0.5
 purpose: []
