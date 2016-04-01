@@ -6,21 +6,22 @@ inLanguage: null
 starred: false
 keywords: []
 description: Launching Spring 2016
-datePublished: '2016-04-01T02:49:15.550Z'
-dateModified: '2016-04-01T01:23:34.090Z'
+datePublished: '2016-04-01T04:28:50.276Z'
+dateModified: '2016-04-01T03:57:56.766Z'
 title: Collections
 author: []
+sourcePath: _posts/2016-04-01-collections.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-01-collections.md
-published: true
 url: collections/index.html
 _type: Article
 
 ---
 **Launching** Spring 2016
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f90b790-306c-4312-91b3-d88b473a70f7.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c4c7584-ff68-411c-a821-1d2f833417ed.png)
